@@ -2,4 +2,4 @@
 - 👀 I’m interested in helping people for improving people's lives.
 - 🌱 I’m currently learning Vue JS.
 - 💞️ I’m looking to collaborate on good projects.
-- 📫 You can reach me at my emails: rajput.shubh1993@gmail.com or https://www.linkedin.com/in/shubham-rajput-34842ba4
+- 📫 You can reach me at my email: rajput.shubh1993@gmail.com or https://www.linkedin.com/in/shubham-rajput-34842ba4
