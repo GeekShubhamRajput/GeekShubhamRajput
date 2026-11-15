@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shubham Rajput, a Full-Stack Developer with 10 years of experience in Ruby on Rails and strong proficiency in React.js.
 - 👀 I'm passionate about building impactful solutions that improve people's lives, with experience in logistics, SaaS and e-commerce domains.
-- 🇩🇪 Currently learning German.
+- Currently learning Python.
 - 📫 You can reach me at my email: rajput.shubh1993@gmail.com or [LinkedIn](https://www.linkedin.com/in/shubham-rajput-34842ba4)
